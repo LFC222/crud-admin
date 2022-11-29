@@ -8,7 +8,6 @@ namespace Products.Enum
     public enum Categoria
     {
         Achocolatado,
-        Sorvete,
         Barra,
     }
 }

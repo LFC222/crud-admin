@@ -8,7 +8,6 @@ namespace Products.Enum
     public enum Fabricante
     {
         Nestle,
-        Garoto,
-        CacauShow
+        Ferrero,
     }
 }
